@@ -2,4 +2,8 @@ Hola soy victor
 
 Hola soy Jose
 
+<<<<<<< HEAD
 Blazblue
+=======
+gespro snadñfidbnf
+>>>>>>> e6c48e868a1a2976f256d5e91f58a56d66f0d0b0
